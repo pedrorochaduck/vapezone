@@ -30,8 +30,9 @@ nav li{
 
 nav a:hover{
 	font-size: 25px;
-	color: limegreen;
-	transition: 0.3s;
+	color: white;
+	transition: 0.2s all;
+	transform: scale(1.2);
 
 }
 
@@ -39,7 +40,7 @@ nav a{
 	text-decoration: none;
 	text-transform: uppercase;
 	font-weight: bold;
-	color: white;
+	color: #a0a0a1;
 	font-size: 22px;
 }
 
